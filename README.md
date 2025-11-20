@@ -2,7 +2,7 @@
 
 - 🎓 UG CSE Student
 - 💡 Interests: MERN stack, Data Structures & Algorithms (DSA), Mathematics
-- 📫 [LinkedIn](https://www.linkedin.com/in/rohan-mirjankar/)
+- 📫 [Connect with me!](https://www.linkedin.com/in/rohan-mirjankar/)
 
 ---
 
