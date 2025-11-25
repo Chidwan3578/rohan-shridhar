@@ -1,5 +1,5 @@
 # Hi, I'm Rohan S M 
-## Just starting my journey:)
+## Just starting my journey :)
 
 - 🎓 CSE Student
 - 💡 Interests: Web development, Data Structures & Algorithms (DSA), Mathematics
