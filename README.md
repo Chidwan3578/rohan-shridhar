@@ -6,10 +6,3 @@
 - 📷 [Instagram](https://instagram.com/rohansm90)
 - 👔 [Portfolio](https://rohan-shridhar.github.io/portfolio/)
 
----
-
-## Languages I Use
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rohan-shridhar&layout=compact)
-
----
