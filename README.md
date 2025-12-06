@@ -5,7 +5,7 @@
 <link rel="stylesheet" href="README.css">
 <div class="tag">
 <a  href="https://rohan-shridhar.github.io/portfolio/">
-    <img src="student.gif" class="image" style="max-width:50px;max-height:50px;border-radius:50%;">
+    <img src="intro.gif" class="image">
 </a>
 </div>
 
@@ -13,7 +13,7 @@
 
 
 
-### Languages  <img src="intro.gif" style="max-width:25px;max-height:25px;border-radius:50%;">
+### Languages 
 <div align="left">    
 <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="25" /></a>  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25" /></a>  
