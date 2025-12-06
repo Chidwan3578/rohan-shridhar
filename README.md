@@ -5,7 +5,7 @@
 <link rel="stylesheet" href="README.css">
 <div class="tag">
 <a  href="https://rohan-shridhar.github.io/portfolio/">
-    <img src="intro.gif" class="image">
+    <img src="student.gif" width="90">
 </a>
 </div>
 
