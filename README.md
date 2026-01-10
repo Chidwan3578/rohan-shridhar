@@ -1,10 +1,9 @@
 # <p align="center">Hi there, I'm Rohan S.M 👋</p>
-<img width="1920" height="1080" alt="Screenshot 2025-12-31 072603" src="https://github.com/user-attachments/assets/15589ac3-1cb7-4f8c-b110-efdd908501ea" />
-
+<img src="thumbnail.png" alt="Thumbnail" title="Thumbnail">
 
 <p align="center">
   <a href="https://rohan-shridhar.github.io/portfolio/">
-    <img src="student.gif" width="100" alt="Portfolio">
+    <img src="student.gif" width="100" alt="Portfolio" title="Portfolio">
   </a>
 </p>
 
