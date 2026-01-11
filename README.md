@@ -1,4 +1,3 @@
-# <p align="center">Hi there👋</p>
 <img src="thumbnail.png" alt="Thumbnail" title="Thumbnail">
 
 <p align="center">
