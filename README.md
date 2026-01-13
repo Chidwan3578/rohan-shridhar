@@ -13,7 +13,7 @@
 ---
 ### ✍️ Quote of the day
 ```txt
-  Magic slates are really useful print
+  Friendship is worth a shot
 ````
 
 ### 🚀 About Me
