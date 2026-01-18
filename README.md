@@ -22,7 +22,7 @@
 ---
 ### ✍️ Quote of the day
 ```txt
-  Understanding how a computer works is amazing
+  Minecraft is an amazing game 
 ````
 <p align=center>
 <img src="https://github.com/user-attachments/assets/1850d32b-e503-4169-b2fe-7a488c3f89df" width=110>
