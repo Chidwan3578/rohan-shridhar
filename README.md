@@ -1,4 +1,3 @@
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=times+new+roman&weight=700&size=50&pause=100&color=BF61F7&background=000000FD&center=true&width=999&height=100&lines=Hi+there👋!!)](https://git.io/typing-svg)
 
 
@@ -39,11 +38,17 @@
 
 
 ### 📊 GitHub Stats
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=rohan-shridhar&theme=shadow_green&hide_border=false" alt="GitHub Streak" height="150" />
+<p align=center>
+<img src="https://streak-stats.demolab.com?user=rohan-shridhar&theme=highcontrast&date_format=j%20M%5B%20Y%5D&card_height=185" alt="GitHub Streak" />
 </p>
 
----
+<p align=center>
+<img src="https://streak-stats.demolab.com?user=rohan-shridhar&theme=react&date_format=j%20M%5B%20Y%5D&card_height=185&hide_current_streak=true&hide_longest_streak=true" alt="GitHub Streak" />
+</p>
+
+<p align=center>
+<img src="https://streak-stats.demolab.com?user=rohan-shridhar&theme=highcontrast&date_format=j%20M%5B%20Y%5D&card_height=185&hide_total_contributions=true&hide_longest_streak=true" alt="GitHub Streak" />
+</p>
 
 ### 🌐 Connect with me
 <p align="left">
