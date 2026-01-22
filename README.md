@@ -13,15 +13,8 @@
 ## 🚀 About Me
 ### I am  passionate about creating interactive and user-friendly web applications. You can view my portfolio by clicking the icon above.
 
-
-<p align="center">
-<img src="card2.png" width=300>
-<img src="card.png" width=300>
-</p>
-
-
 ---
-### ✍️ Quote of the day
+### ✍️ A Random Quote
 ```txt
   Statistics is not easy...😔
 ````
