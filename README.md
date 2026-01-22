@@ -39,6 +39,10 @@
 <img src="https://streak-stats.demolab.com?user=rohan-shridhar&theme=highcontrast&date_format=j%20M%5B%20Y%5D&card_height=185&hide_total_contributions=true&hide_longest_streak=true" alt="GitHub Streak" />
 </p>
 
+<p align=center>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rohan-shridhar&locale=en&hide_title=false&layout=compact&card_width=500&langs_count=5&theme=merko&hide_border=false&order=2" height="250" alt="languages graph"  />
+</p>
+
 ### 🌐 Connect with me
 <p align=center>
   <a href="https://github.com/rohan-shridhar" target="_blank"><img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" /></a>
