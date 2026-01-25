@@ -16,7 +16,7 @@
 ---
 ### ✍️ A Random Quote
 ```txt
-  Statistics is not easy...😔
+ Cold water makes you catch cold..? 🤔
 ````
 
 ### 📊 GitHub Stats
