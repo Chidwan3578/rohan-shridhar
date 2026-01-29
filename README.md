@@ -30,6 +30,11 @@ Best you can do except being creative is code
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rohan-shridhar&locale=en&hide_title=false&layout=compact&card_width=500&langs_count=6&theme=merko&hide_border=false&border="2" height="250" alt="languages graph"  />
 </p>
 
+### 📸 Meme of the week
+
+<a href="https://imgflip.com/i/ainx73"><img src="https://i.imgflip.com/ainx73.jpg" title="made at imgflip.com"/></a><div><a href="https://imgflip.com/memegenerator">from Imgflip Meme Generator</a></div>
+
+
 ### 🌐 Connect with me
 <p align=center>
   <a href="https://github.com/rohan-shridhar" target="_blank"><img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" /></a>
