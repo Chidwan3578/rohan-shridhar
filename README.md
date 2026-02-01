@@ -25,10 +25,14 @@ Comfort is cancer
 <img src="https://streak-stats.demolab.com?user=rohan-shridhar&theme=great-gatsby&date_format=j%20M%5B%20Y%5D&card_height=185&hide_current_streak=true&hide_longest_streak=true" alt="Total contributions" width=300 height="350"/>
 <img src="https://streak-stats.demolab.com?user=rohan-shridhar&theme=highcontrast&date_format=j%20M%5B%20Y%5D&card_height=185&hide_total_contributions=true&hide_longest_streak=true" alt="GitHub Streak" width=300 height="350"/>
 </p>
-
 <p align=center>
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rohan-shridhar&locale=en&hide_title=false&layout=compact&card_width=500&langs_count=6&theme=merko&hide_border=false&border="2" height="250" alt="languages graph"/>
 </p>
+
+### 📸 Meme of the week
+
+![yeah!!! (1)](https://github.com/user-attachments/assets/863aaa95-2c58-4ea3-8476-8e9c3ee6d603)
+
 
 ### 🌐 Connect with me
 <p align=center>
