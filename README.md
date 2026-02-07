@@ -16,7 +16,7 @@
 ---
 ### ✍️ A Random Thought
 ```txt
-DBMS is easy peasy!!
+Football ❤️
 ````
 
 ### 📊 GitHub Stats
