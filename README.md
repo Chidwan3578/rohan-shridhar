@@ -37,7 +37,7 @@ Football ❤️
 
 ### 📸 Meme of the week
 
-![yeah!!! (1)](https://github.com/user-attachments/assets/863aaa95-2c58-4ea3-8476-8e9c3ee6d603)
+<img src="https://i.imgflip.com/ajkei6.jpg" title="made at imgflip.com" width="400"/>
 
 
 ### 🌐 Connect with me
